@@ -1,2 +1,3 @@
-# hospital-outpatient-system
-大一下小学期课程作业
+我的大一下小学期课程作业
+医院门诊信息管理系统
+
